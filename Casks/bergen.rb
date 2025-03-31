@@ -1,8 +1,8 @@
 cask "bergen" do
-  version "0.1.9"
-  sha256 "028614797c76f99ed08b415d02a01744a5233ce15ffd9169559f0f4289ef061c"
+  version "0.1.18"
+  sha256 "9a8059c3afad6bc2baa95476309fa29a972c805c47f39391d7ad9611acb534d0"
 
-  url "https://github.com/kkarimi/bergen/releases/download/v#{version}/bergen-macos-v0.1.9.zip"
+  url "https://github.com/kkarimi/bergen/releases/download/v#{version}/bergen-macos-v0.1.18.zip"
   name "Bergen"
   desc "Lightweight markdown reader"
   homepage "https://github.com/kkarimi/bergen"
